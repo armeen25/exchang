@@ -1,1 +1,3 @@
-# exchang
+streamlit
+requests
+pandas
